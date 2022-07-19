@@ -41,9 +41,6 @@ function App() {
     )
   }
 
-  useEffect(() => {
-    console.log(cart);
-  })
 
 
   return (
